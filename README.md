@@ -18,6 +18,8 @@ Este programa usa la Criba de Eratóstenes para encontrar números primos del 1 
 
 # Autores
 - Brayan Alexis León Barajas
+- Jesus Javier Martinez Ruiz
+- Jeison Daniel Fernandez Acevedo
 
 # Universidad
 Fundación Universitaria del Área Andina.
